@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background-color:#0a0e21;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+ 
+  background-size:cover;
+
+}
+
+h1,p,ul{
+  color:#ffffff;
+
+}
